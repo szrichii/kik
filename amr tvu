@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1  ,T SORTS
-https://cdn.hotflix-bd.online:443/T-Sports/tracks-v1a1/mono.m3u8?remote=103.155.118.213&token=54e24ecf3bc47cea942c3df0de93b789e8805ee4-66992c70ab76310fc7a5dce25aab65c5-1726706400-1726695600
+http://172.16.29.2:8080/hls/tsportshdL.m3u8
 #EXTINF:1  ,SUPER SPORTS 
 https://cdn2.hotflix-bd.online/s-cricket/tracks-v1a1/mono.m3u8?remote=103.155.118.213&token=15a1bd99029b4f7eb38e650e5a23b7f64dd9232d-e46db7f24fc989a0244849cf41b3ce37-1726706483-1726695683
 #EXTINF:1  ,Sky CRICKET
